@@ -1,0 +1,9 @@
+{
+  "name": "code-from-react",
+  "version": "1.0.0",
+  "description": "code from react",
+  "main": "index.js",
+  "repository": "git@github.com:snakeUni/code-from-react.git",
+  "author": "Uni <1025687605@qq.com>",
+  "license": "MIT"
+}
